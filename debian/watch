@@ -1,0 +1,5 @@
+version=4
+opts=\
+dversionmangle=auto,\
+filenamemangle=s/.*?(\d[\d\.-]*@ARCHIVE_EXT@)/node-http-proxy-$1/ \
+ https://github.com/http-party/node-http-proxy/tags .*/archive/.*/v?([\d\.]+).tar.gz
