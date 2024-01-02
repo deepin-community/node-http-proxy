@@ -1,3 +1,9 @@
+node-http-proxy (1.18.1-8deepin1) unstable; urgency=medium
+
+  * Move to main. No source changes.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Tue, 02 Jan 2024 14:05:32 +0800
+
 node-http-proxy (1.18.1-8) unstable; urgency=medium
 
   [ Roland Mas ]
